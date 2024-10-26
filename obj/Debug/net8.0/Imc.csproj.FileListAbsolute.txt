@@ -1,0 +1,14 @@
+c:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\obj\Debug\net8.0\Imc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\obj\Debug\net8.0\Imc.AssemblyInfoInputs.cache
+c:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\obj\Debug\net8.0\Imc.AssemblyInfo.cs
+c:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\obj\Debug\net8.0\Imc.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\bin\Debug\net8.0\Imc.exe
+C:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\bin\Debug\net8.0\Imc.deps.json
+C:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\bin\Debug\net8.0\Imc.runtimeconfig.json
+C:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\bin\Debug\net8.0\Imc.dll
+C:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\bin\Debug\net8.0\Imc.pdb
+C:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\obj\Debug\net8.0\Imc.dll
+C:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\obj\Debug\net8.0\refint\Imc.dll
+C:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\obj\Debug\net8.0\Imc.pdb
+C:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\obj\Debug\net8.0\Imc.genruntimeconfig.cache
+C:\Users\Gustavo Cordeiro\OneDrive\Desktop\C#\Imc\obj\Debug\net8.0\ref\Imc.dll
